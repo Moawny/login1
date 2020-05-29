@@ -1,0 +1,40 @@
+div, input {
+    display:inline-block;
+}
+.sv, input {
+    display:none;
+}
+@media (min-width:250px) and (max-width:300px) {
+    
+}
+/*div {
+    margin:auto;
+    margin-top:123px;
+}
+div button {
+    border:1px solid rgb(2, 111, 184);
+    color:rgb(2, 111, 184);
+    padding:123px 123px;
+    position:relative;
+    transition:1s;
+    overflow:hidden;
+    background:none;
+}
+button::before {
+    content:"";
+    height:0%;
+    z-index:-1;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    background-color:rgb(2, 111, 184);
+    border-radius:50% 50% 0 0;
+    transition:1s;
+}
+button:hover {
+    color:#fff;
+}
+button:hover::before {
+    height:180%;
+}*/
